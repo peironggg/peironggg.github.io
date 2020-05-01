@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Archive
+title: Posts
+permalink: /posts/
 ---
 
-# Archive
+# Posts
 
 Browse all posts by month and year.
 
