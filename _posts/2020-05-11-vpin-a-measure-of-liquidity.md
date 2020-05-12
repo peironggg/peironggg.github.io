@@ -1,3 +1,4 @@
+---
 layout: post
 title: VPIN - A Measure of Liquidity
 ---
