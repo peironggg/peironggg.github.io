@@ -1,7 +1,6 @@
 # Setup
 title: Blog
-tagline: Yammerings From Behind The Grapevine
-url: https://getpoole.com
+tagline: Ramblings
 paginate: 1
 baseurl: ""
 permalink: pretty
